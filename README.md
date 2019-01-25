@@ -1,0 +1,2 @@
+# ideas
+Coding ideas
